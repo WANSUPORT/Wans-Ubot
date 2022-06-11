@@ -9,29 +9,29 @@
 
 ![](https://github.com/WANSUPORT/IWANS/edit/Wans-Userbot/README.md/resources/ezgif-1-47328533dd.gif)
 
-## ᴅɪsᴄʟᴀɪᴍᴇʀ :
+## DISCLEAMER :
 
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
 Bot ini dimaksudkan untuk bersenang-senang sekaligus membantu anda
 mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak.
     
-## WANS :
+## TUTORIAL :
 klik tombol dibawah ini untuk melihat tutorial deploy WANSUPORT :
 
 [![Full Tutorial](https://img.shields.io/badge/Tonton%20Video-green)](https://t.me/tutorialuserbottelegram/127)  
 
-## WANS :
+## DEPLOY :
 
 <p align="left"><a href="https://telegram.dog/XTZ_HerokuBot?start=V0FOU1VQT1JUL0lXQU5TIHRlc3Q"> <img src="https://img.shields.io/badge/Deploy%20On%20Telegram-blue?style=for-the-badge&logo=telegram" width="200" height="35.60" /></a></p><p align="left"><a href="https://heroku.com/deploy?template=https://github.com/WANSUPORT/IWANS/edit/Xa-Userbot/README.mdhttpssmg src="https://img.shields.io/badge/Deploy%20On%20Heroku-indigo?style=for-the-badge&logo=heroku" width="200" height="35.60" /></a></p>
 
     
 
-## sᴜᴘᴘᴏʀᴛ & ᴜᴘᴅᴀᴛᴇs :
+## SUPPORT & UPDATES :
 <a href="https://t.me/Wansupport"><img src="https://img.shields.io/badge/Join-Group%20Support-green.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://t.me/iwansubot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
-## ᴀʙᴏᴜᴛ ᴍᴇ :
+## ABOUTBME :
 <p align="left">
 <a href"https://github.com/WANSUPORT/IWANS"><img src="https://img.shields.io/badge/GitHub-Follow%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
