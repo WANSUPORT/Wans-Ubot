@@ -1,4 +1,4 @@
-<h1 align="center"> xᴀ ᴜsᴇʀʙᴏᴛ <h1 align="center">
+<h1 align="center"> 𝙒𝙖𝙣𝙨 <h1 align="center">
 
 <p align="center">
     <a href="https://github.com/WANSUPORT/IWANS/edit/Wans-Userbot/README.md"><img src="https://github.com/WANSUPORT/IWANS"=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
