@@ -1,7 +1,7 @@
 <h1 align="center"> WANS SUPPORT <h1 align="center">
 
 <p align="center">
-    <a href="https://github.com/WANSUPORT/IWANS/edit/Wans-Userbot/README.md"><img src="https://github.com/WANSUPORT/IWANS"=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
+    <a href="https://github.com/WANSUPORT/Wans-Userbot/README.md"><img src="https://github.com/WANSUPORT/Wans-Userbot"=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
     <a href> <img src="https://github.com/WANSUPORT/IWANS/edit/Wans-Userbot/README.md?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor"/>
