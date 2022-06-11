@@ -23,7 +23,7 @@ klik tombol dibawah ini untuk melihat tutorial deploy WANSUPORT :
 
 ## DEPLOY :
 
-<p align="left"><a href="https://telegram.dog/XTZ_HerokuBot?start=V0FOU1VQT1JUL0lXQU5TIHRlc3Q"> <img src="https://img.shields.io/badge/Deploy%20On%20Telegram-blue?style=for-the-badge&logo=telegram" width="200" height="35.60" /></a></p><p align="left"><a href="https://heroku.com/deploy?template=https://github.com/WANSUPORT/IWANS/edit/Xa-Userbot/README.mdhttpssmg src="https://img.shields.io/badge/Deploy%20On%20Heroku-indigo?style=for-the-badge&logo=heroku" width="200" height="35.60" /></a></p>
+<p align="left"><a href="https://telegram.dog/XTZ_HerokuBot?start=V0FOU1VQT1JUL0lXQU5TIHRlc3Q"> <img src="https://img.shields.io/badge/Deploy%20On%20Telegram-blue?style=for-the-badge&logo=telegram" width="200" height="35.60" /></a></p><p align="left"><a href="https://heroku.com/deploy?template=https://github.com/WANSUPORT/IWANS/edit/Xa-Userbot/README.mdhttpssmg src="https://telegram.dog/XTZ_HerokuBot?start=V0FOU1VQT1JUL1dhbnMtVXNlcmJvdCBBeWlpbi1Vc2VyYm90" width="200" height="35.60" /></a></p>
 
     
 
