@@ -1,9 +1,9 @@
 {
-  "name": "⋆ 𝘼𝙮𝙞𝙞𝙣-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
-  "description": "[Ayiin-Userbot] Userbot Hanya Untuk Bersenang - Senang",
-  "logo": "https://telegra.ph/file/c6a0aef41355af5a018c6.jpg",
+  "name": "⋆ 𝙒𝙖𝙣𝙨-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
+  "description": "[Wana-Userbot] Userbot Hanya Untuk Bersenang - Senang",
+  "logo": "https://telegra.ph/file/800a68c46fe2ddc311361.jpg",
   "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
-  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
+  "repository": "https://github.com/WANSUPORT/Wans-Ubot",
   "stack": "container",
   "env": {
     "API_KEY": {
