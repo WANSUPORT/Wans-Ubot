@@ -186,7 +186,7 @@ async def amireallyalive(alive):
         f"{emoji} **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 :** `{version.__version__}` \n"
         f"{emoji} **𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴 :** `{uptime}` \n"
         f"╰✠╼━━━━━━━━━━━━━━━✠╯\n\n"
-        f"    **[𝗦𝘂𝗽𝗽𝗼𝗿𝘁](https://t.me/{GROUP})** | **[𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://t.me/{CHANNEL})** | **[𝗢𝘄𝗻𝗲𝗿](tg://user?id={user.id})**"
+        f"    **[𝗦𝘂𝗽𝗽𝗼𝗿𝘁](https://t.me/Wansupport{GROUP})** | **[𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://t.me/iwansubot{CHANNEL})** | **[𝗢𝘄𝗻𝗲𝗿](tg://user?id={user.id})**"
     )
     if ALIVE_LOGO:
         try:
