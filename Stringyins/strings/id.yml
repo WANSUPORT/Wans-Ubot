@@ -50,8 +50,8 @@ error_8: "**KESALAHAN: {} tidak merespon silahkan coba lagi nanti**"
 
 #for yins
 ayiin_1: "**[ᴋᴏɴᴛᴏʟ]** - Perintah Itu Dilarang Di Gc Ini Goblok..."
-ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Ayiin-Userbot Ngentod 😡"
-ayiin_3: "**Maaf Telah MengClone Ayiin 🥺**"
+ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Wans-Userbot Ngentod 😡"
+ayiin_3: "**Maaf Telah MengClone Wans 🥺**"
 
 # admintools
 prom_1: "`Mempromosikan...`"
@@ -299,7 +299,7 @@ fake_8: "**Nama belakang** : @{}\n"
 fake_9: "**Nama Pengguna: ** `Tidak memiliki nama pengguna!`\n"
 
 # fban tools
-fban_1: "**Kesalahan: Tindakan ini telah dicegah oleh protokol keamanan diri Ayiin-Userbot.**"
+fban_1: "**Kesalahan: Tindakan ini telah dicegah oleh protokol keamanan diri Wans-Userbot.**"
 fban_2: "**Anda belum terhubung ke federasi mana pun!**"
 fban_3: "Gagal untuk fban di {}/{} feds.\n"
 fban_4: "Kesuksesan! Melakukan Fbanned di {} feds."
@@ -361,7 +361,7 @@ gban_1: "**𝘽𝙖𝙣𝙣𝙚𝙙 𝙎𝙥𝙤𝙩𝙚𝙙**\n**𝙁𝙞𝙧�
 gban_2: "`Pemrosesan larangan global...`"
 gban_3: "`𖣘 Larangan Global Akan Aktif...`"
 gban_4: "**Maaf Telah Terjadi Kesalahan :(**"
-gban_5: "**Apakah Anda Gila ?.. Dia Adalah Developer Ayiin-Userbot 🤪**"
+gban_5: "**Apakah Anda Gila ?.. Dia Adalah Developer Wans-Userbot 🤪**"
 gban_6: "**Apakah Anda Gila ?... Dia Adalah Admin @SharingUserbot 🤪**"
 gban_7: "**\\#𝙂𝘽𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**𝙁𝙞𝙧𝙨𝙩 𝙉𝙖𝙢𝙚 :** [{}](tg://user?id={})\n**𝙐𝙨𝙚𝙧 𝙄𝘿 :** `{}`\n**𝘼𝙘𝙩𝙞𝙤𝙣 :** `𝙂𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣𝙣𝙚𝙙`"
 gban_8: "**Mohon Balas Ke Pesan Penggunanya**"
