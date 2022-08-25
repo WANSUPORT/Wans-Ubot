@@ -1,21 +1,21 @@
 {
   "name": "⋆ 𝙒𝙖𝙣𝙨-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
-  "description": "[Wana-Userbot] Userbot Hanya Untuk Bersenang - Senang",
+  "description": "[Wans-Userbot] Userbot Hanya Untuk Bersenang - Senang",
   "logo": "https://telegra.ph/file/800a68c46fe2ddc311361.jpg",
   "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
   "repository": "https://github.com/WANSUPORT/Wans-Ubot",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan API KEY di Grup » https://t.me/AyiinXdSupport » Lalu ketik #api atau di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "Dapatkan API KEY di Grup » https://t.me/Wansupport » Lalu ketik #api atau di web my.telegram.org Masukan yg APP ID Telegram",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di Grup » https://t.me/AyiinXdSupport » Lalu ketik /get api atau di web my.telegram.org",
+      "description": "Dapatkan API Hash di Grup » https://t.me/Wansupport » Lalu ketik /get api atau di web my.telegram.org",
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/AyiinXdSupport » Lalu ketik /get string",
+      "description": "Dapatkan String Session di Grup » https://t.me/Wansupport » Lalu ketik /get string",
       "required": true
     },
     "HEROKU_APP_NAME": {
