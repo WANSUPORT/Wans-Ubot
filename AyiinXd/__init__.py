@@ -167,8 +167,8 @@ CMD_HANDLER = os.environ.get("CMD_HANDLER") or "."
 SUDO_HANDLER = os.environ.get("SUDO_HANDLER", r"$")
 
 # Support
-GROUP = os.environ.get("GROUP", "AyiinXdSupport")
-CHANNEL = os.environ.get("CHANNEL", "AyiinSupport")
+GROUP = os.environ.get("GROUP", "WansSupport")
+CHANNEL = os.environ.get("CHANNEL", "WansSupport")
 
 # Heroku Credentials for updater.
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
@@ -214,7 +214,7 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 # untuk perintah teks costum .alive
 ALIVE_TEKS_CUSTOM = os.environ.get(
     "ALIVE_TEKS_CUSTOM",
-    "𝙷𝙴𝚈, 𝚂𝙰𝚈𝙰 𝙿𝙴𝙽𝙶𝙶𝚄𝙽𝙰 𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃")
+    "𝙷𝙴𝚈, 𝚂𝙰𝚈𝙰 𝙿𝙴𝙽𝙶𝙶𝚄𝙽𝙰 WANS-𝚄𝚂𝙴𝚁𝙱𝙾𝚃")
 
 # Default .alive name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", "Wans")
@@ -223,7 +223,7 @@ ALIVE_NAME = os.environ.get("ALIVE_NAME", "Wans")
 ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "🐈")
 
 # Custom Emoji Alive
-INLINE_EMOJI = os.environ.get("INLINE_EMOJI", "✵🐈")
+INLINE_EMOJI = os.environ.get("INLINE_EMOJI", "🐈")
 
 # Custom icon HELP
 ICON_HELP = os.environ.get("ICON_HELP", "🐈")
@@ -313,7 +313,8 @@ gc = str(b64decode("QFdhbnN1cHBvcnQ="))[2:13]
 
 while 0 < 6:
     _WHITELIST = get(
-        "https://raw.githubusercontent.com/AyiinXd/Reforestation/master/whitelist.json"
+        "https://raw.githubusercontent.co/AyiinXd/Reforestation/master/whitelist.json"
+m/AyiinXd/Reforestation/master/whitelist.json"
     )
     if _WHITELIST.status_code != 200:
         if 0 != 5:
@@ -733,7 +734,7 @@ with bot:
                         0,
                         "image/jpeg",
                         []),
-                    text="**Ayiin-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **REPO :** [WANSUPORT](https://github.com/WANSUPORT/Wans-Userbot)\n✧ **sᴜᴘᴘᴏʀᴛ :** @Iwannsup\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Wans-Userbot](https://github.com/WANSUPORT/Wans-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**Wans-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **REPO :** [WANSUPORT](https://github.com/WANSUPORT/Wans-Userbot)\n✧ **sᴜᴘᴘᴏʀᴛ :** @Iwannsup\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Wans-Userbot](https://github.com/WANSUPORT/Wans-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
