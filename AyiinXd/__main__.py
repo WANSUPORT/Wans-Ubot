@@ -29,7 +29,7 @@ from AyiinXd.ayiin import autobot, autopilot
 
 try:
     for module_name in ALL_MODULES:
-        imported_module = import_module(f"AyiinXd.modules.{module_name}")
+        imported_module = import_module(f"Wans.modules.{module_name}")
     client = multiayiin()
     total = 10 - client
     git()
@@ -46,7 +46,7 @@ except BaseException as e:
     sys.exit(1)
 
 
-LOOP.run_until_complete(ayiin_userbot_on())
+LOOP.run_until_complete(wans_userbot_on())
 if not BOTLOG_CHATID:
     LOOP.run_until_complete(autopilot())
 if not BOT_TOKEN:
