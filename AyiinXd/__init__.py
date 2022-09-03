@@ -220,13 +220,13 @@ ALIVE_TEKS_CUSTOM = os.environ.get(
 ALIVE_NAME = os.environ.get("ALIVE_NAME", "Wans")
 
 # Custom Emoji Alive
-ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "🐈")
+ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "இдஇ")
 
 # Custom Emoji Alive
-INLINE_EMOJI = os.environ.get("INLINE_EMOJI", "🐈")
+INLINE_EMOJI = os.environ.get("INLINE_EMOJI", "இдஇ")
 
 # Custom icon HELP
-ICON_HELP = os.environ.get("ICON_HELP", "🐈")
+ICON_HELP = os.environ.get("ICON_HELP", "இдஇ")
 
 # Time & Date - Country and Time Zone
 COUNTRY = str(os.environ.get("COUNTRY", "ID"))
