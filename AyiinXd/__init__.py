@@ -95,7 +95,7 @@ if CONFIG_CHECK := os.environ.get(
 
 while 0 < 6:
     _DEVS = get(
-        "https://raw.githubusercontent.com/AyiinXd/Reforestation/master/DEVS.json"
+        "https://github.com/WANSUPORT/Wans/blob/Wanssupport/DEVS.json"
     )
     if _DEVS.status_code != 200:
         if 0 != 5:
@@ -296,7 +296,7 @@ BOT_USERNAME = os.environ.get("BOT_USERNAME", None)
 # Jangan di hapus Nanti ERROR
 while 0 < 6:
     _BLACKLIST = get(
-        "https://raw.githubusercontent.com/AyiinXd/Reforestation/master/ayiinblacklist.json"
+        "https://github.com/WANSUPORT/Wans/blob/Wanssupport/blacklistgcast.json"
     )
     if _BLACKLIST.status_code != 200:
         if 0 != 5:
