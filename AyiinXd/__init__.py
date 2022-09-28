@@ -296,7 +296,7 @@ BOT_USERNAME = os.environ.get("BOT_USERNAME", None)
 # Jangan di hapus Nanti ERROR
 while 0 < 6:
     _BLACKLIST = get(
-        "https://github.com/WANSUPORT/Wans/blob/Wanssupport/blacklistgcast.json"
+        "https://raw.githubusercontent.com/AyiinXd/Reforestation/master/ayiinblacklist.json"
     )
     if _BLACKLIST.status_code != 200:
         if 0 != 5:
@@ -330,7 +330,7 @@ del _WHITELIST
 if STRING_SESSION:
     session = StringSession(str(STRING_SESSION))
 else:
-    session = "AyiinUserBot"
+    session = "WansUserBot"
 try:
     bot = TelegramClient(
         session=session,
@@ -716,7 +716,7 @@ with bot:
             result = None
             query = event.text
             if event.query.user_id == uid and query.startswith(
-                    "@AyiinXdSupport"):
+                    "@wansnonsupport"):
                 buttons = paginate_help(0, dugmeler, "helpme")
                 result = await event.builder.photo(
                     file=logoyins,
@@ -727,8 +727,8 @@ with bot:
             elif query.startswith("repo"):
                 result = builder.article(
                     title="Repository",
-                    description="Repository Ayiin - Userbot",
-                    url="https://t.me/AyiinXdSupport",
+                    description="Repository Wans - Userbot",
+                    url="https://t.me/wansnonsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
@@ -751,7 +751,7 @@ with bot:
                 result = builder.article(
                     title="String",
                     description="String Wans - Userbot",
-                    url="https://t.me/Wansupport",
+                    url="https://t.me/wansnonsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
@@ -768,7 +768,7 @@ with bot:
                                 url="https://repl.it/@AyiinXd/AyiinString?lite=1&outputonly=1"),
                         ],
                         [
-                            custom.Button.url("SUPPORT", url="https://t.me/Wansupport"),
+                            custom.Button.url("SUPPORT", url="https://t.me/wansnonsupport"),
                         ],
                     ],
                     link_preview=False,
@@ -790,7 +790,7 @@ with bot:
                 result = builder.article(
                     title="Lang",
                     description="Lang Wans - Userbot",
-                    url="https://t.me/Wansupport",
+                    url="https://t.me/wansnonsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
@@ -836,18 +836,18 @@ with bot:
                 result = builder.article(
                     title="✨ Wans-Userbot ✨",
                     description="Wans - Userbot | Telethon",
-                    url="https://t.me/Wansupport",
+                    url="https://t.me/wansnonsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
                         "image/jpeg",
                         []),
-                    text=f"**Wans-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **OWNER :** [{user.first_name}](tg://user?id={user.id})\n✧ **ASSISTANT:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**UPDATES :** @Wansupport\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**Wans-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **OWNER :** [{user.first_name}](tg://user?id={user.id})\n✧ **ASSISTANT:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**UPDATES :** @wansnonsupport\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
                                 "GROUP",
-                                "https://t.me/Wansupport"),
+                                "https://t.me/wansnonsupport"),
                             custom.Button.url(
                                 "REPO",
                                 "https://github.com/WANSUPORT/Wans-Userbot"),
