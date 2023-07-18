@@ -40,9 +40,3 @@ klik tombol dibawah ini untuk melihat tutorial deploy WANSUPORT :
 
 
 
-## ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ & sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs :
-
-* [Kyy-Userbot](https://github.com/muhammadrizky16/Kyy-Userbot)
-* Special Thanks To : [TONIC](https://github.com/Tonic990) 
-* Special Thanks To : [KYY](https://github.com/muhammadrizky16) 
-* Thank you to all Indonesian Userbot Developers 🇮🇩
